@@ -1,0 +1,13 @@
+
+
+.form-group {
+    width: 95%;
+    margin: 0 2.5%;
+    height: max-content;
+}
+
+h1, h2, h3{
+    width: 90%!important;
+    margin: 1rem!important;
+    color: #333;
+}
