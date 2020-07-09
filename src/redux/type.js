@@ -1,5 +1,0 @@
-export const AUTH_PENDING = 'AUTH_PENDING';
-export const AUTH_SUCCESS = 'AUTH_SUCCESS';
-export const AUTH_FAILURE = 'AUTH_FAILURE';
-export const ACCOUNT_SUCCESS = 'ACCOUNT_SUCCESS';
-export const ACCOUNT_FAILURE = 'ACCOUNT_FAILURE';
